@@ -1,8 +1,13 @@
 # UserScripts
 Javascript to make your browser do fun and interesting things. 
 
+## using git on this repo
+* **	to grab all the code remember to run: 
 
+		$git clone --recursive https://github.com/GazelleScripts/UserScripts.git
 
+* **	If you forget and just run git clone you can still grab the submodules with:
+		$git submodule update --init --recursive
 ## some dev reading for submodules
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
