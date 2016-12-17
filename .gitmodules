@@ -1,3 +1,6 @@
 [submodule "yadg-pth-userscript"]
 	path = yadg-pth-userscript
 	url = https://github.com/SavageCore/yadg-pth-userscript.git
+[submodule "pthbetter-link-creator"]
+	path = pthbetter-link-creator
+	url = https://github.com/GazelleScripts/pthbetter-link-creator.git
