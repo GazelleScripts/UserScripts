@@ -4,3 +4,6 @@
 [submodule "pthbetter-link-creator"]
 	path = pthbetter-link-creator
 	url = https://github.com/GazelleScripts/pthbetter-link-creator.git
+[submodule "toggle.format.visibility"]
+	path = toggle.format.visibility
+	url = https://github.com/GazelleScripts/toggle.format.visibility.git
