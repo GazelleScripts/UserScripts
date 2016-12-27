@@ -7,3 +7,6 @@
 [submodule "toggle.format.visibility"]
 	path = toggle.format.visibility
 	url = https://github.com/GazelleScripts/toggle.format.visibility.git
+[submodule "Chameleons_Scripts"]
+	path = Chameleons_Scripts
+	url = git://github.com/GazelleScripts/Chameleons_Scripts.git
